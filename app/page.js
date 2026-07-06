@@ -67,7 +67,7 @@ export default function Home() {
           <div className="grid gap-5 md:grid-cols-2 lg:grid-cols-3">
             <article className="fade-up rounded-3xl border border-[#efcfb0] bg-white p-4 shadow-sm">
               <Image
-                src="/shared image (6).jpg"
+                src="/bolo.jpg"
                 alt="Bolo decorado"
                 width={420}
                 height={300}
@@ -79,7 +79,7 @@ export default function Home() {
 
             <article className="fade-up rounded-3xl border border-[#efcfb0] bg-white p-4 shadow-sm [animation-delay:120ms]">
               <Image
-                src="/shared image (29).jpg"
+                src="/cestas.jpg"
                 alt="Doces finos"
                 width={420}
                 height={300}
@@ -91,7 +91,7 @@ export default function Home() {
 
             <article className="fade-up rounded-3xl border border-[#efcfb0] bg-white p-4 shadow-sm [animation-delay:220ms]">
               <Image
-                src="/shared image (58).jpg"
+                src="/travessa.jpg"
                 alt="Sobremesa artesanal"
                 width={420}
                 height={300}
@@ -103,7 +103,7 @@ export default function Home() {
 
             <article className="fade-up rounded-3xl border border-[#efcfb0] bg-white p-4 shadow-sm [animation-delay:320ms]">
               <Image
-                src="/shared image (12).jpg"
+                src="/bombom.jpg"
                 alt="Bombons artesanais"
                 width={420}
                 height={300}
@@ -127,7 +127,7 @@ export default function Home() {
 
             <article className="fade-up rounded-3xl border border-[#efcfb0] bg-white p-4 shadow-sm [animation-delay:520ms]">
               <Image
-                src="/shared image (22).jpg"
+                src="/pascoa.jpg"
                 alt="Ovos de Pascoa artesanais"
                 width={420}
                 height={300}
